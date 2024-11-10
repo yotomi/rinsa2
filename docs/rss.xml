@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://yotomi.github.io/rinsa</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://yotomi.github.io/rinsa</link></image><lastBuildDate>Sun, 10 Nov 2024 15:50:40 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>天城燐音x乱凪砂 收录馆</title><link>https://yotomi.github.io/rinsa</link><description>Amagi Rinne x Ran Nagisa</description><copyright>天城燐音x乱凪砂 收录馆</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://yotomi.github.io/rinsa</link></image><lastBuildDate>Sun, 10 Nov 2024 16:31:19 +0000</lastBuildDate><managingEditor>天城燐音x乱凪砂 收录馆</managingEditor><ttl>60</ttl><webMaster>天城燐音x乱凪砂 收录馆</webMaster><item><title>天城燐音x乱凪砂收录馆介绍</title><link>https://yotomi.github.io/rinsa/post/tian-cheng-lin-yin-x-luan-%E5%87%AA-sha-shou-lu-guan-jie-shao.html</link><description>你好，这是一个互联网私人馆藏空间。&#13;
+&#13;
+馆主：雅名，即本人，此处仅有我发布的内容&#13;
+&#13;
+此处是 天城燐音x乱凪砂 专馆&#13;
+&#13;
+原作：偶像梦幻祭&#13;
+&#13;
+这里会存放的内容：同人文、同人图、CP解读、剧情收录和分析、印象音乐、图文等&#13;
+&#13;
+可以通过注册github账号留下评论，请友善互动&#13;
+&#13;
+.</description><guid isPermaLink="true">https://yotomi.github.io/rinsa/post/tian-cheng-lin-yin-x-luan-%E5%87%AA-sha-shou-lu-guan-jie-shao.html</guid><pubDate>Sun, 10 Nov 2024 15:50:15 +0000</pubDate></item></channel></rss>
