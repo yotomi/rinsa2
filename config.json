@@ -2,5 +2,12 @@
     "title":"天城燐音x乱凪砂 收录馆",
     "subTitle":"Amagi Rinne x Ran Nagisa",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "singlePage":["about"],
+    "iconList":{"music":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"},
     "GMEEK_VERSION":"last"
+    "commentLabelColor":"#006b75",
+    "i18n":"CN/EN",
+    "startSite":"11/10/2024",
+    "needComment":0,
+    "bottomText":"可以分享收录馆地址给你信任的人，请勿无授权转载"
 }
