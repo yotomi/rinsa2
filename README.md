@@ -1,6 +1,6 @@
-# 雅名 :link: https://yotomi.github.io/rinsa 
+# 天城燐音x乱凪砂 收录馆 :link: https://yotomi.github.io/rinsa 
 ### :page_facing_up: [2](https://yotomi.github.io/rinsa/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 146 
-### :alarm_clock: 2025-03-17 23:25:51 
+### :alarm_clock: 2025-04-01 23:22:11 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
