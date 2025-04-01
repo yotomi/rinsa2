@@ -11,6 +11,7 @@
     "nightTheme":"github-light",
     "urlMode":"issue",
     "needComment":1,
+    "singlePage":["link","about"],
     "onePageListNum":15,
     "bottomText":"可以分享收录馆地址给你信任的人❤ 请勿无授权转载",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
